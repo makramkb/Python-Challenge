@@ -1,6 +1,5 @@
 import csv
 
-
     # Declare variables
     
     
@@ -19,7 +18,7 @@ votes_rcvd_by_candidate=[0,0,0]
     # Open file as a csv and read it with the csv.reader fct and skip the 1st row which is the header
     
 
-with open('election_data.csv','r') as file:
+with open('./3-Python-Challenge/PyPoll/Resources/election_data.csv','r') as file:
     csvreader=csv.reader(file)
     header=next(file)
     
