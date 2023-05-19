@@ -1,0 +1,7 @@
+Charles Casper Stockham received 23.05 %
+Diana DeGette received 73.81 %
+Raymon Anthony Doane received 3.14 %
+Total votes :  369711
+Candidates list :  ['Charles Casper Stockham', 'Diana DeGette', 'Raymon Anthony Doane']
+Total votes for each candidate :  [85213, 272892, 11606]
+The winner is : Charles Casper Stockham

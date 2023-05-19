@@ -1,0 +1,7 @@
+The total months number is= 86
+Total PL= 22564198
+Change avergage= -8311.105882352942
+The greatest increase= 1862002
+The greatest increase= -1825558
+Greatest Increase in Profits: 16-Aug ($1862002)
+Greatest Decrease in Profits: 14-Feb ($-1825558)
